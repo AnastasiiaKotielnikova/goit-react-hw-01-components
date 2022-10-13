@@ -21,7 +21,7 @@
   padding: 0;
   width: 100%;
   display: flex;
-  background-color: lightcyan;
+  background-color: #dadfe8;
 }
 
 .statList > li {
